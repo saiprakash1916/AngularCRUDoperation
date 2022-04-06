@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "Sai Ram",
+      "lastName": "Chandra",
+      "email": "sairam.Chandra@gmail.com",
+      "mobileNo": "9603686744",
+      "salary": "400000"
+    },
+    {
+      "id": 4,
+      "firstName": "Dinu",
+      "lastName": "T",
+      "email": "Dinu.t@gmail.com",
+      "mobileNo": "123456789",
+      "salary": "400000"
+    },
+    {
+      "id": 5,
+      "firstName": "sai",
+      "lastName": "prakash",
+      "email": "saiprakash1916@gmail.com",
+      "mobileNo": "9182197769",
+      "salary": "400000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
