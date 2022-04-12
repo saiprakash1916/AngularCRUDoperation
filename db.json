@@ -23,9 +23,32 @@
       "email": "saiprakash1916@gmail.com",
       "mobileNo": "9182197769",
       "salary": "400000"
+    },
+    {
+      "id": 6,
+      "firstName": "Sai",
+      "lastName": "prakash",
+      "email": "saiprakash1916@gmail.com",
+      "mobileNo": "9182197769",
+      "salary": "400000"
     }
   ],
-  "comments": [],
+  "SignUpUsers": [
+    {
+      "fullName": "Sai prakash",
+      "email": "saiprakash1916@gmail.com",
+      "password": "saiprakash",
+      "mobile": 9182197769,
+      "id": 1
+    },
+    {
+      "fullName": "lakshmi",
+      "email": "lakshmi@gmail.com",
+      "password": "lakshmi123",
+      "mobile": 7799141852,
+      "id": 2
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
